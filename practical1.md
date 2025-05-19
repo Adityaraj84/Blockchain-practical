@@ -1,1 +1,2 @@
+# Create a voting system with multiple candidates. Each address can vote only once.
 
